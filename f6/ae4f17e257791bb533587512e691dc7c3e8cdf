@@ -1,0 +1,19 @@
+.github/workflows/deploy.yml
+  s_75842129fda9f8::t_1b5603bcd01dc4 29
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.4",
+  "base_commit_sha": "f6ae4f17e257791bb533587512e691dc7c3e8cdf",
+  "prompts": {},
+  "sessions": {
+    "s_75842129fda9f8": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "fc0a94ed-27d0-4e7d-aebc-5a981a134fbd",
+        "model": "claude-sonnet-4-6"
+      },
+      "human_author": "Alejandro de la Fuente de la Rosa <alejandro.delafuentedelarosa@emeal.nttdata.com>"
+    }
+  }
+}

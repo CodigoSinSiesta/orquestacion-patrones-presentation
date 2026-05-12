@@ -1,0 +1,23 @@
+src/components/slides/Slide20ConvMatriz.svelte
+  s_75842129fda9f8::t_ce62b7a31c5077 13
+src/components/slides/Slide06EscaleraTop.svelte
+  s_75842129fda9f8::t_afcac7ea6cc2b1 141
+  s_75842129fda9f8::t_e1b9030ce8b551 52-62
+  s_75842129fda9f8::t_35f2505fae3c3b 160-162
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.4",
+  "base_commit_sha": "dafb7c0399e72d71ba3cdec2a5ae6dd8240f4c02",
+  "prompts": {},
+  "sessions": {
+    "s_75842129fda9f8": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "fc0a94ed-27d0-4e7d-aebc-5a981a134fbd",
+        "model": "claude-sonnet-4-6"
+      },
+      "human_author": "Alejandro de la Fuente de la Rosa <alejandro.delafuentedelarosa@emeal.nttdata.com>"
+    }
+  }
+}

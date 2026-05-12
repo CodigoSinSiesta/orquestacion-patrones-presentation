@@ -10,7 +10,7 @@
       anthropic: { check: true, note: 'Generator-Evaluator, Sprint Contracts' },
       openai: { check: true, note: 'Harness Engineering keynote, "toda interacción es fallo del harness"' },
       factory: { check: true, note: 'Missions: 16.5h Slack clone, droid whispering' },
-      academia: { check: true, note: 'NLAH +16.8pts, Meta-Harness 6×' }
+      academia: { check: true, note: 'NLAH +16.8pts, Meta-Harness 6×, RecursiveMAS +8.3% salteando el canal de texto' }
     },
     {
       convergence: 'Separar Gen/Eval',

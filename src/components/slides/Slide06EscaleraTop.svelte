@@ -49,6 +49,17 @@
           </div>
         </div>
       </div>
+
+      <div class="level-card level-rec">
+        <div class="level-badge rec-badge">★</div>
+        <div class="level-content">
+          <h3>RecursiveMAS — Comunicación en latent space <span class="rec-tag">arXiv:2604.25917</span></h3>
+          <p>Los agentes se comunican directamente a través de hidden states entrenados, sin convertir a tokens entre rondas. El módulo <strong>RecursiveLink</strong> (Inner + Outer adapters, 0.31% de los parámetros) proyecta el estado latente de un agente al espacio de entrada del siguiente. Resultado: +8.3% accuracy, 2.4× speedup, −75.6% tokens vs. MAS text-based — Tsinghua University, mayo 2026.</p>
+          <div class="level-meta">
+            <span class="meta-item rec-meta">📡 Saltar el canal de texto entre agentes es la siguiente frontera del nivel 10. El texto ya no es el único protocolo de coordinación.</span>
+          </div>
+        </div>
+      </div>
     </div>
   </div>
 </div>
@@ -127,6 +138,7 @@
   .level-8 { border-left-color: rgba(34, 197, 94, 0.5); }
   .level-9 { border-left-color: rgba(59, 130, 246, 0.6); }
   .level-10 { border-left-color: rgba(167, 139, 250, 0.6); }
+  .level-rec { border-left-color: rgba(251, 191, 36, 0.6); background: rgba(251, 191, 36, 0.04); }
 
   .level-badge {
     width: 36px;
@@ -145,6 +157,9 @@
 
   .level-9 .level-badge { background: rgba(59, 130, 246, 0.15); color: var(--color-electric); }
   .level-10 .level-badge { background: rgba(167, 139, 250, 0.15); color: #c4b5fd; }
+  .rec-badge { background: rgba(251, 191, 36, 0.15); color: #fde68a; font-size: 1rem; }
+  .rec-tag { font-family: var(--font-mono); font-size: 0.7rem; font-weight: 600; color: #fde68a; opacity: 0.7; margin-left: 8px; vertical-align: middle; }
+  .rec-meta { background: rgba(251, 191, 36, 0.1); color: #fde68a; border: 1px solid rgba(251, 191, 36, 0.3); }
 
   .level-content {
     flex: 1;

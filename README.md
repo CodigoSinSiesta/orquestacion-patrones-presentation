@@ -63,5 +63,5 @@ GitHub Pages desde `main`. La `base` está fijada a `/orquestacion-patrones-pres
 
 ## Autor
 
-Alejandro de la Fuente · Tech Lead · NTT Data · GDNE  
+Alejandro de la Fuente · Expert Architect · NTT Data · Digital Architecture  
 [tellmealex.dev](https://tellmealex.dev) · [GitHub](https://github.com/TellMeAlex) · [LinkedIn](https://es.linkedin.com/in/alejandro-de-la-fuente)

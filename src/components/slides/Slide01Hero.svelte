@@ -48,7 +48,7 @@
       />
       <div class="author-info">
         <p class="author-name">Alejandro de la Fuente</p>
-        <p class="author-role">Tech Lead · NTT Data · GDNE</p>
+        <p class="author-role">Expert Architect · NTT Data · Digital Architecture</p>
         <div class="author-links">
           <a href="https://tellmealex.dev" target="_blank" rel="noopener noreferrer" class="author-link" aria-label="Sitio web">🌐</a>
           <a href="https://github.com/TellMeAlex" target="_blank" rel="noopener noreferrer" class="author-link" aria-label="GitHub">🐙</a>
